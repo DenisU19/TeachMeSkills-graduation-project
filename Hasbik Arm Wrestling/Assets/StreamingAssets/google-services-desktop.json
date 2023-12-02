@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "760970870348",
+    "firebase_url": "https://hasbik-armwrestling-1b123-default-rtdb.firebaseio.com",
+    "project_id": "hasbik-armwrestling-1b123",
+    "storage_bucket": "hasbik-armwrestling-1b123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760970870348:android:750a9872f0e10f3e98bee9",
+        "android_client_info": {
+          "package_name": "com.GreenGrey.HasbikArmWrestling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCiRRi9_qJM6vypzPEYYuOQtQP2gIPdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
